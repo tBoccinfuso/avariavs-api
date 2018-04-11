@@ -1,36 +1,36 @@
 {
     "servo" : {
       "aservo" :{
-        "hp": 2800,
+        "hp": 2600,
         "spd": 13,
-        "str": 55,
+        "str": 50,
         "mna": 35,
         "vit": 58,
         "spr": 55
       },
       "bservo": {
-        "hp": 2800,
+        "hp": 2600,
         "spd": 13,
-        "str": 55,
+        "str": 70,
         "mna": 35,
-        "vit": 58,
-        "spr": 55
+        "vit": 50,
+        "spr": 45
       },
       "cservo": {
         "hp": 2800,
         "spd": 13,
         "str": 55,
-        "mna": 35,
-        "vit": 58,
-        "spr": 55
+        "mna": 40,
+        "vit": 50,
+        "spr": 45
       },
       "dservo":{
         "hp": 2800,
         "spd": 13,
         "str": 55,
         "mna": 35,
-        "vit": 58,
-        "spr": 55
+        "vit": 50,
+        "spr": 50
       }
     },
 
@@ -44,9 +44,9 @@
         "spr": 45
       },
       "ev":{
-        "hp": 2300,
+        "hp": 2200,
         "spd": 5,
-        "str": 41,
+        "str": 48,
         "mna": 38,
         "vit": 45,
         "spr": 45
@@ -54,13 +54,13 @@
       "gia":{
         "hp": 2300,
         "spd": 5,
-        "str": 41,
-        "mna": 38,
+        "str": 35,
+        "mna": 45,
         "vit": 45,
         "spr": 45
       },
       "eonielder":{
-        "hp": 2300,
+        "hp": 2400,
         "spd": 5,
         "str": 41,
         "mna": 38,
@@ -76,26 +76,26 @@
         "str": 32,
         "mna": 40,
         "vit": 38,
-        "spr": 53
+        "spr": 55
       },
       "arisa":{
-        "hp": 1800,
+        "hp": 2000,
         "spd": 8,
         "str": 32,
         "mna": 40,
-        "vit": 38,
+        "vit": 40,
         "spr": 53
       },
       "keres":{
-        "hp": 1800,
+        "hp": 2000,
         "spd": 8,
-        "str": 32,
-        "mna": 40,
+        "str": 40,
+        "mna": 47,
         "vit": 38,
-        "spr": 53
+        "spr": 47
       },
       "humesoldier":{
-        "hp": 1800,
+        "hp": 2100,
         "spd": 8,
         "str": 32,
         "mna": 40,
@@ -110,31 +110,31 @@
         "spd": 5,
         "str": 44,
         "mna": 44,
-        "vit": 40,
+        "vit": 44,
         "spr": 48
       },
       "dythor":{
-        "hp": 2100,
-        "spd": 5,
-        "str": 44,
-        "mna": 44,
+        "hp": 2000,
+        "spd": 4,
+        "str": 40,
+        "mna": 48,
         "vit": 40,
         "spr": 48
       },
       "cyrus":{
         "hp": 2100,
         "spd": 5,
-        "str": 44,
+        "str": 40,
         "mna": 44,
         "vit": 40,
         "spr": 48
       },
       "helagent":{
-        "hp": 2100,
+        "hp": 2300,
         "spd": 5,
-        "str": 44,
-        "mna": 44,
-        "vit": 40,
+        "str": 40,
+        "mna": 40,
+        "vit": 44,
         "spr": 48
       }
     }
