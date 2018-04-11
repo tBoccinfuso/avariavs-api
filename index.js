@@ -15,12 +15,14 @@ By: T.Boccinfuso
 www.twitter.com/boccinfusoT`);
 });
 
+// Used to get the JSON obj of all the classes
 app.get('/classes', function (req, res) {
   fs.readFile( __dirname + "/" + "apis/classes.json", 'utf8', function (err, data) {
     res.end( data );
   });
 });
 
+// Used to get the JSON obj of all the heroes in a class
 app.get('/classes/:class', function (req, res) {
   fs.readFile( __dirname + "/" + "apis/classes.json", 'utf8', function (err, data) {
      var className = JSON.parse( data );
@@ -31,6 +33,7 @@ app.get('/classes/:class', function (req, res) {
   });
 });
 
+// Used to get the JSON obj of all the data for that hero
 app.get('/classes/:class/:hero', function (req, res) {
   fs.readFile( __dirname + "/" + "apis/classes.json", 'utf8', function (err, data) {
      var heroName = JSON.parse( data );
@@ -40,6 +43,7 @@ app.get('/classes/:class/:hero', function (req, res) {
   });
 });
 
+// Used to get the JSON obj of the passed stat value for a certain hero
 app.get('/classes/:class/:hero/:stat', function (req, res) {
   fs.readFile( __dirname + "/" + "apis/classes.json", 'utf8', function (err, data) {
      var heroName = JSON.parse( data );
