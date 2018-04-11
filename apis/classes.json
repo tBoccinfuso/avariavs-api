@@ -1,0 +1,141 @@
+{
+    "servo" : {
+      "aservo" :{
+        "hp": 2800,
+        "spd": 13,
+        "str": 55,
+        "mna": 35,
+        "vit": 58,
+        "spr": 55
+      },
+      "bservo": {
+        "hp": 2800,
+        "spd": 13,
+        "str": 55,
+        "mna": 35,
+        "vit": 58,
+        "spr": 55
+      },
+      "cservo": {
+        "hp": 2800,
+        "spd": 13,
+        "str": 55,
+        "mna": 35,
+        "vit": 58,
+        "spr": 55
+      },
+      "dservo":{
+        "hp": 2800,
+        "spd": 13,
+        "str": 55,
+        "mna": 35,
+        "vit": 58,
+        "spr": 55
+      }
+    },
+
+    "eoni":{
+      "kasper":{
+        "hp": 2300,
+        "spd": 5,
+        "str": 41,
+        "mna": 38,
+        "vit": 45,
+        "spr": 45
+      },
+      "ev":{
+        "hp": 2300,
+        "spd": 5,
+        "str": 41,
+        "mna": 38,
+        "vit": 45,
+        "spr": 45
+      },
+      "gia":{
+        "hp": 2300,
+        "spd": 5,
+        "str": 41,
+        "mna": 38,
+        "vit": 45,
+        "spr": 45
+      },
+      "eonielder":{
+        "hp": 2300,
+        "spd": 5,
+        "str": 41,
+        "mna": 38,
+        "vit": 45,
+        "spr": 45
+      }
+    },
+
+    "mage":{
+      "larus":{
+        "hp": 1800,
+        "spd": 8,
+        "str": 32,
+        "mna": 40,
+        "vit": 38,
+        "spr": 53
+      },
+      "arisa":{
+        "hp": 1800,
+        "spd": 8,
+        "str": 32,
+        "mna": 40,
+        "vit": 38,
+        "spr": 53
+      },
+      "keres":{
+        "hp": 1800,
+        "spd": 8,
+        "str": 32,
+        "mna": 40,
+        "vit": 38,
+        "spr": 53
+      },
+      "humesoldier":{
+        "hp": 1800,
+        "spd": 8,
+        "str": 32,
+        "mna": 40,
+        "vit": 38,
+        "spr": 53
+      }
+    },
+
+    "manasoldier":{
+      "Betany":{
+        "hp": 2100,
+        "spd": 5,
+        "str": 44,
+        "mna": 44,
+        "vit": 40,
+        "spr": 48
+      },
+      "dythor":{
+        "hp": 2100,
+        "spd": 5,
+        "str": 44,
+        "mna": 44,
+        "vit": 40,
+        "spr": 48
+      },
+      "cyrus":{
+        "hp": 2100,
+        "spd": 5,
+        "str": 44,
+        "mna": 44,
+        "vit": 40,
+        "spr": 48
+      },
+      "helagent":{
+        "hp": 2100,
+        "spd": 5,
+        "str": 44,
+        "mna": 44,
+        "vit": 40,
+        "spr": 48
+      }
+    }
+}
