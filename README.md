@@ -14,7 +14,7 @@ localhost:3000/class            Contains all chracters in a class. Replace 'clas
                                 Class: eoni, mage, manasoldier, servo
                                 
 localhost:3000/class/hero       Contains all chracters in a class. Replace hero with a hero name from the class.
-                                Hero: dythor, cservo, larus, ev
+                                Hero: dythor, cservo, larus, ev, etc
                                 
 localhost:3000/class/hero/stat  Contains the value of a given stat.
                                 Stat: hp, spd, str, vit, mna, spr
